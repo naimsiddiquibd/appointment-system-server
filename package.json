@@ -19,5 +19,8 @@
     "firebase-admin": "^10.0.1",
     "mongodb": "^4.2.2",
     "stripe": "^8.202.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
